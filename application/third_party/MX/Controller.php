@@ -2,6 +2,7 @@
 
 /** load the CI class for Modular Extensions **/
 require dirname(__FILE__).'/Base.php';
+require dirname(__FILE__).'/DataInterface.php';
 
 /**
  * Modular Extensions - HMVC
